@@ -1,1 +1,15 @@
+.product-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
 
+.product-icon {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
