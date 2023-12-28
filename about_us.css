@@ -1,0 +1,32 @@
+.centered_title {
+    text-align: center;
+
+}
+.carousel {
+    text-align: center;
+}
+nav {
+    display: block;
+}
+.nav {
+    background-color: gray;
+}
+.nav ul {
+    display: block;
+    border: 1rem;
+}
+.nav a {
+    text-decoration: none;
+    display:block;
+    
+
+}
+.nav li{
+    width: 8rem;
+    display: inline-block;
+    
+}
+.footer {
+    display: block;
+    background-color: gray;
+}
