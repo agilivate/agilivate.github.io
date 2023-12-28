@@ -72,9 +72,11 @@ p {
 }
 
 nav {
+    display: flex;
     background-color: #1a6de9;
-    color: #000000;
+    color: hsl(0, 0%, 0%);
     padding: 10px;
+    justify-content: space-around;
 }
 
 ul {
@@ -105,4 +107,22 @@ a:hover {
     padding: 10px;
     box-sizing: border-box;
     max-width: 100%;
+}
+
+.footer-content{
+    display: flex
+}
+.footer-section about{
+width:30%;
+}
+
+.footer-section links{
+width: 30%
+}
+
+.footer-section contact{
+    width: 30%
+}
+.testicles{
+    padding:1px
 }
